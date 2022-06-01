@@ -1,0 +1,26 @@
+{
+  "name": "professional-readme-generator",
+  "version": "1.0.0",
+  "description": "Week9 uni bootcamp homework",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AliceBryer/Professional-README-Generator.git"
+  },
+  "keywords": [
+    "README",
+    "node"
+  ],
+  "author": "Alice Bryer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AliceBryer/Professional-README-Generator/issues"
+  },
+  "homepage": "https://github.com/AliceBryer/Professional-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
