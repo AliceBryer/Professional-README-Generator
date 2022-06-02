@@ -22,7 +22,7 @@ async function getUserInput () {
         {
             type: "input",
             name: "usage",
-            message: "What is the purpose of your project?",
+            message: "Does your project have any usage information?",
         },
         {
             type: "input",
@@ -31,27 +31,44 @@ async function getUserInput () {
         },
         {
             type: "checkbox",
-            message: "What licence would you need for your project? If you need help chooseing a licence , please refer to www.choosealicence.com ",
+            message: "Please select a license from the options below - If you need help chooseing a licence , please refer to www.choosealicence.com ",
             name: "licence",
             choices: ['MIT','GNU GPLv3','Apache','GPLv2','BSD 3-Clause']
         },
         {
             type: "input",
             name: "contribution",
-            message: "How can others contribute to your project?",
+            message: "Please enteryour project contribution guidelines",
         },
         {
             type: "input",
             name: "tests",
-            message: "Add some tests for users so they can test your application",
+            message: "Please enter your project test instructions",
         },
         {
             type: "input",
             name: "credits",
-            message: "Please list any collaborators or third-party assets",
+            message: "Please list any collaborators or third-party assets used",
+        },
+        {
+            type: "input",
+            name: "questions",
+            message: "Please enter your github username",
+        },
+        {
+            type: "input",
+            name: "questions",
+            message: "Please enter your email address",
         },
        
     ]);
+}
+
+
+let file = await fs.readFile("./template/template.md");
+
+Object.keys(answers).forEach(key) => {
+
 }
 
 getUserInput();
