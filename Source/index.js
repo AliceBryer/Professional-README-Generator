@@ -65,7 +65,7 @@ async function getUserInput () {
 }
 
 
-let file = await fs.readFile("./template/template.md");
+let file = await fs.readFile(")
 
 Object.keys(answers).forEach(key) => {
 
