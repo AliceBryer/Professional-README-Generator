@@ -1,4 +1,4 @@
-# Professional README Generator - WORK IN PROGRESS
+# Professional README Generator
 
 ## Table of Contents
 
