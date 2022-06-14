@@ -44,7 +44,7 @@ There are currently no tests for this application
 ## Credits
 I have achieved this application with support from the University of Birmingham's coding bootcamp course content.
 
-## Screenshots & Video 
+## Screenshots
 
 - **Screenshots**
 ![screenshot](./Screenshots/Screenshot%20of%20application.jpg)
@@ -53,6 +53,6 @@ I have achieved this application with support from the University of Birmingham'
 - **Video Link**
 https://drive.google.com/file/d/1RSVYYIoIn9P_ht2uGHOLijR4w5ZTRtmL/view
 
-## Questions & how to contact me
+## Questions
 - **Email**: alicebryer123@gmail.com
 - **linkedin**: https://www.linkedin.com/in/alice-bryer-7aa760233/
