@@ -16,13 +16,13 @@ This application has been created to allow the user to generate a professional R
 [Contributing](#contributing)| Find out how you can start using the generator |
 [Tests](#tests)| Find out how you can start using the generator |
 [Credits](#contributing)| Find out how you can start using the generator |
-[Screenshots/Video](#screenshots & video)| See a sneak preview of what the application can do |
-[Contact-Me](#contact-me)| Email & Linkedin available |
+[Screenshots](#screenshots)| See a sneak preview of what the application can do |
+[Questions](#questions)| Email & Linkedin available |
 
 ## Features
-Uses fs to write files
-Uses Node to run commands
-Uses the inquirer package
+- Uses fs to write files
+- Uses Node to run commands
+- Uses the inquirer package
 
 ## Installation
 ```
