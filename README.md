@@ -10,9 +10,13 @@ This application has been created to allow the user to generate a professional R
 | Section| About that section |
 |----------- | ----------- |
 |[Description](#description)| More information about the application & the thoughts behind it |
+|[Features](#features)| More info about what features are in the application|
 |[Installation](#installation)| Instructions on how to install the generator  |
-  [Usage](#usage)| Find out how you can start using the generator |
-[Screenshots](#screenshots)| See a sneak preview of what the application can do |
+[Usage](#usage)| Find out how you can start using the generator |
+[Contributing](#contributing)| Find out how you can start using the generator |
+[Tests](#tests)| Find out how you can start using the generator |
+[Credits](#contributing)| Find out how you can start using the generator |
+[Screenshots/Video](#screenshots & video)| See a sneak preview of what the application can do |
 [Contact-Me](#contact-me)| Email & Linkedin available |
 
 ## Features
@@ -28,7 +32,7 @@ Uses the inquirer package
 ```
 ## Usage
 ```
-In your terminal run the command `node index.js` . Make sure you are in the parent file of the index.js file (which in this case is the Source folder)
+In your terminal run the command `node index.js`. Make sure you are in the parent file of the index.js file (which in this case is the Source folder).
 ```
 
 ## Contributing
@@ -38,14 +42,16 @@ If you would like to contribute on this project at all, please email me on the e
 There are currently no tests for this application
 
 ## Credits
-I have achieved this application with support from the University of Birminghams coding bootcamp course content.
+I have achieved this application with support from the University of Birmingham's coding bootcamp course content.
 
 ## Screenshots & Video 
 
 - **Screenshots**
-![alt text](image.jpg)
+![screenshot](./Screenshots/Screenshot%20of%20application.jpg)
+![screenshot](./Screenshots/Screenshot%202.jpg)
 
 - **Video Link**
+https://drive.google.com/file/d/1RSVYYIoIn9P_ht2uGHOLijR4w5ZTRtmL/view
 
 ## Questions & how to contact me
 - **Email**: alicebryer123@gmail.com
