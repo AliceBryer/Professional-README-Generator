@@ -13,9 +13,9 @@ This application has been created to allow the user to generate a professional R
 |[Features](#features)| More info about what features are in the application|
 |[Installation](#installation)| Instructions on how to install the generator  |
 [Usage](#usage)| Find out how you can start using the generator |
-[Contributing](#contributing)| Find out how you can start using the generator |
-[Tests](#tests)| Find out how you can start using the generator |
-[Credits](#contributing)| Find out how you can start using the generator |
+[Contributing](#contributing)| Find out how you can contribute to the application if you have any improvements or bug fixes|
+[Tests](#tests)| Check to see if there is any tests you need to run|
+[Credits](#contributing)| Check to see if there is anybody credited|
 [Screenshots](#screenshots)| See a sneak preview of what the application can do |
 [Questions](#questions)| Email & Linkedin available |
 
