@@ -1,9 +1,9 @@
-# Alices project 
-
+# a 
+MIT,GNU GPLv3,Apache,GPLv2,BSD 3-Clause
 
 ## Description
 
-it should do x,y,z
+a
 
 ## Table of Contents
 
@@ -14,34 +14,34 @@ it should do x,y,z
 |[Installation](#installation)| Instructions on how to install the application  |
   [Usage](#usage)| Find out how you can start using the application |
   [License](#license)| Find out how you can start using the application |
-  [Contribution](#contribution)| Find out how you can contribute to the project |
+  [Contribution](#contributing)| Find out how you can contribute to the project |
 [Tests](#tests)| Find out what tests you can run to ensure its working correctly |
 [Credits](#credits)| XXXXXXXXXXXXXXx |
 [Questions](#questions)| How you can get in touch if you have any questions
 
 ## Features
-lots
+a
 
 ## Installation
 
-by runninga command
+a
 
 ## Usage
 
-not much
+a
 
 ## License 
-
+MIT,GNU GPLv3,Apache,GPLv2,BSD 3-Clause
 
 ## Contributing
-:SDD
+a
 
 ## Tests
-asdkaldaada
+a
 
 ## Credits 
-youtubw
+a
 
 
 ## Questions
-If you have any questions you can reach me either on email alicebryer123@gmail.com or please see my Github www.github.com/alicebreyr
+If you have any questions you can reach me either on email a or please see my Github www.github.com/a
